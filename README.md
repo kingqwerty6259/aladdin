@@ -32,4 +32,4 @@ This is a fun, Aladdin-themed word scramble game. The game presents the player w
 
 ## Run the Game
 
-[kingqw](https://kingqwerty6259.github.io/aladdin/)
+[Run Game](https://kingqwerty6259.github.io/aladdin/)
